@@ -105,3 +105,14 @@ industrial_instrument_fault_prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+## Screenshots
+
+![Training Result](images/training_result.png)
+![Training Result](images/training_result(2).png)
+![Training Result](images/training_result(3).png)
+![Training Result](images/training_result(4).png)
+![Single Prediction](images/single_prediction_result.png)
+![Batch Prediction](images/batch_prediction_result.png)
+![Confusion Matrix](images/confusion_matrix.png)
+![Feature Importance](images/feature_importance.png)
